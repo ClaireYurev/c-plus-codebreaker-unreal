@@ -3,6 +3,8 @@
 #include <string>      // PREPROCESSOR DIRECTIVE : include strings
 using namespace std;
 
+// # Easter Egg: int32 2201010001
+
 string g_firstName;    // Global: will be used in several functions
 
 void CopyrightNotice()
