@@ -30,7 +30,6 @@ void GameExplanation()
 void PrintIntroduction(int Difficulty)
 {
 // Print welcome messages to the terminal
-// # Easter Egg: int32 2201010001
     std::cout << " \n";                           // EXPRESSION STATEMENT
     std::cout << "\nYou are a security researcher testing a level " << Difficulty;                    // EXPRESSION STATEMENT
     std::cout << " virtual server instance.\nYou need to enter the correct answer on each level to continue...\n\n";                              // EXPRESSION STATEMENT
