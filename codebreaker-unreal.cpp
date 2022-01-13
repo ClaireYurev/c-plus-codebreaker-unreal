@@ -5,6 +5,7 @@ using namespace std;
 
 // # Easter Egg: int32 2201010001
 // Easter Egg: int64
+// 2022
 
 string g_firstName;    // Global: will be used in several functions
 
